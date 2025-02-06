@@ -1,2 +1,7 @@
-# Market_place_hackathon03
-Market Place hackathon_03 from day 01 to day 07
+Market Place Hackathon E-commerce website from Day_01 to day_07 
+DAY_01 : Laying the foundation for the E-commerce website by setting up the project structure and initial Configurations.
+Day_02 : Mechanical foundation Established the backend architecture, optimized database integration, developed foundational API endpoints, and designed the Sanity schema for content management in the Nike E-commerce platform.
+Day_03 : API Integration & Data Migration seamlessly integrated APIs, streamlined data migration from sanity CMS, and structured dynamic endpoints to power the Nike E-commerce experience.
+Day_04 : Dynamic Frontend components Fetched and displayed data from sanity CMS via APIs, implemented dynamic routing for individual product pages, and built modular, reusable components.Enhanced the user experience with advanced product filtering for seamless navigation.
+Day_05 : Testing and Backend Refinement conducting through testing using Thunder Client and refined backend performance, ensuring smooth API integrations.Optimized website performance and testablity with Lighthouse, enhancing speed, accessiblity, and overall user experience for the Nike E-commerce platform.
+Day_06 :Deployment Preparation and Staging Environment Finalized deploment setup and configured the staging environment for the Nike E-commerce website, ensuring smooth tranistion to production. Conducted final tests and refined configurations to guarantee seamless performance across all stagees.
